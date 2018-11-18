@@ -1,0 +1,33 @@
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+:focus {
+  outline: dotted 2px #001aff;
+}
+
+a {
+  color: #001aff;
+  font-weight: bold;
+
+  &:focus {
+    outline-color: #001aff;
+  }
+
+  &.has-light-focus {
+    outline-color: #00ffe1;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 700;
+}
