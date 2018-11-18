@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://sleepy-murdock-3d91d9.netlify.com/* http://www.niels.im/:splat 301!
