@@ -6,7 +6,7 @@
     <div class="o-wrapper">
       <div class="o-layout">
         <div class="o-layout__item">
-          <span class="u-color-white">&copy; Niels.im {{ new Date().getFullYear() }}</span>
+          <span class="u-color-white">&copy; <a rel="me" href="https://mastodon.social/@nielsim">Niels.im</a> {{ new Date().getFullYear() }}</span>
         </div>
       </div>
     </div>
